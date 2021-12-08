@@ -1,0 +1,13 @@
+Exemplos de Codigos Executados no Portugol
+- Laços de repetição:
+
+Faça/Enquanto
+ -estrutura
+
+faca
+{
+   //Condição
+}enquanto ()
+
+
+- Tomada de Decisões
